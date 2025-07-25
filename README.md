@@ -1,2 +1,3 @@
 # large-repo-18
-Large file test repository 18
+
+This repository contains large files (>10MB) for testing purposes.
